@@ -1,0 +1,15 @@
+Flask
+flask-cors
+opencv-python
+Pillow
+scikit-learn
+numpy
+pandas
+transformers
+torch
+nltk
+requests
+python-dotenv
+Werkzeug
+psycopg2-binary
+SQLAlchemy
