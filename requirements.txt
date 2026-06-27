@@ -1,4 +1,5 @@
-fastapi
-uvicorn
-pydantic
+Flask
+Flask-Cors
 python-dotenv
+Pillow
+gunicorn
