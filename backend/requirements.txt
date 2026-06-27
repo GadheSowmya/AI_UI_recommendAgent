@@ -13,3 +13,4 @@ python-dotenv
 Werkzeug
 psycopg2-binary
 SQLAlchemy
+gunicorn
