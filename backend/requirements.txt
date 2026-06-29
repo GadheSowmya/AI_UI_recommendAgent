@@ -1,6 +1,7 @@
 Flask
 flask-cors
 gunicorn
+beautifulsoup4
 opencv-python-headless
 Pillow
 scikit-learn
