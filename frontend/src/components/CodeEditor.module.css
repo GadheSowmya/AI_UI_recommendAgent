@@ -74,12 +74,12 @@
 .textarea {
   width: 100%;
   height: 100%;
-  padding: 15px;
+  padding: 5px;
   border: none;
   font-family: 'Courier New', Courier, monospace;
   font-size: 13px;
-  line-height: 1.6;
-  resize: none;
+  line-height: 10;
+  resize: 1;
   outline: none;
   background: #f9f9f9;
 }

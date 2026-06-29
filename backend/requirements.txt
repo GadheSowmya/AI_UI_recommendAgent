@@ -1,6 +1,7 @@
 Flask
 flask-cors
-opencv-python
+gunicorn
+opencv-python-headless
 Pillow
 scikit-learn
 numpy
